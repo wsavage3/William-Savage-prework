@@ -1,0 +1,47 @@
+body {
+  background-color: #62b3cb; 
+  margin: 0;
+  line-height: 1.5;
+  text-transform: uppercase;
+}
+#company {
+position: relative;
+text-align: left;
+font-size: 14px;
+font-weight: 800;
+font-family: Arial;
+color: white;
+}
+
+#slogan {
+  font-family: Arial;
+  text-align: center;
+  font-size: 12px;
+  position: relative;
+  top: 170px;
+  }
+
+#location {
+text-align: center;
+color: white;
+font-size: 80px;
+font-weight: 800;
+font-family: Arial;
+position: relative;
+top: 200px;
+}
+
+#ad{
+  width: fit-content;
+  border: 1px solid white;
+  position: relative;
+  top: 230px;
+  font-size: 12px;
+  color: white;
+  font-family: Arial;
+  text-align: center;
+  padding: 5px;
+  left: 50%;
+  left: 50%;
+  margin-left: -63px;
+}
