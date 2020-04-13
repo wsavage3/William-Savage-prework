@@ -1,0 +1,44 @@
+div p {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+#Left {
+  margin-top: 2%;
+  float: left;
+  width: 50%;
+  font-size: 14px;
+  font-family: 'Times New Roman', Times, serif;
+  color: black;
+  background: blue;
+  padding-bottom: 210px;
+  padding-top: 210px;
+}
+
+#Right {
+  margin-top: 2%;
+  width: 25%;
+  padding: 0px, 200px;;
+  float: right;
+  font-size: 14px;
+  font-family: 'Times New Roman', Times, serif;
+  color: black;
+  background: red;
+  height: 200%;   
+  padding-bottom: 210px;
+  padding-top: 210px;
+}
+
+#Nav {
+  background-color: grey; 
+  float: top;
+  margin: 0;
+}
+
+#Footer{
+  background-color: green; 
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
