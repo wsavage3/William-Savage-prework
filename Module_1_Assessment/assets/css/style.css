@@ -1,0 +1,48 @@
+h1#border.navbar-brand{
+    padding: 20px !important;
+    margin: 0 !important;
+    padding-bottom: 0px !important;
+}
+.mb-4, .my-4 {
+    margin-top: 0px;
+}
+h1{
+    margin-bottom: 0px !important;
+}
+#name{
+    color: #ffffff;
+    padding: 20px;
+}
+
+.navbar{
+    padding:0;
+    border-bottom: #dddddd;
+    margin-bottom: 0px;
+    font: 'Arial', 'Helvetica Neue', Helvetica, sans-serif !important;
+}
+
+#change_header{
+    background-color: #ffffff;
+    font: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+.font_determine{
+    font: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+#About_Me{
+    background-color: #ffffff !important;
+    color: #4aaaa5 !important;
+    border-color: #dddddd !important;
+    padding-top: 1.5rem !important;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+#footer{
+    background-color: #666666
+}
+.jumbotron{
+    margin-bottom: 2px;
+}
+.footer_bottom{
+    vertical-align: bottom;
+}
