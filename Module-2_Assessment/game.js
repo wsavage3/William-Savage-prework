@@ -39,7 +39,7 @@ var words = [
   }
   document.write(guess[j])
   i++
-  }
+  } //must fix so that correct letters put in correct position and guesses are not repeated
   
   
   alert(answerArray.join(" "))
