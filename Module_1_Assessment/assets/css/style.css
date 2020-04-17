@@ -84,3 +84,20 @@ input[type=text], select, textarea {
     border-color: #dddddd !important;
     font-family: 'Georgia', Times, Times New Roman, serif;
 }
+
+#About_Me-3{
+    background-color: #ffffff !important;
+    color: #4aaaa5 !important;
+    border-color: #dddddd !important;
+    padding-top: 0.25rem !important;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.jumbotron{
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important;
+}
+
+#change_final{
+    padding: 0.5rem !important;
+}
